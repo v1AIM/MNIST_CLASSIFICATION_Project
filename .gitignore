@@ -3,4 +3,4 @@ mnist_test.csv
 mnist_train.csv
 
 # Ignore model files
-model.h5
+best_model.h5

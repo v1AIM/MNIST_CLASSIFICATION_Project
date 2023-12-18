@@ -1,3 +1,6 @@
 # Ignore MNIST dataset files
 mnist_test.csv
 mnist_train.csv
+
+# Ignore model files
+model.h5
